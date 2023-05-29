@@ -1,23 +1,23 @@
 [{
- "Takim": "FB E Spor",
+ "TakimAdi": "FB E Spor",
  "ResimURL": "https://raw.githubusercontent.com/halitiskit/com.HR210024_halit_eren_iskit.final/main/FB.png",
  "TakimHakkinda": "Fenerbahçe Espor ya da kısaca Fenerbahçe, 1907 Fenerbahçe Derneği tarafından 14 Ekim 2016 tarihinde kurulan ancak 01 Ocak 2022 tarihinden itibaren ise Fenerbahçe SK'nın bünyesine geçen elektronik spor şubesidir. Şubenin aktif olarak FIFA, NBA2K, Apex Legends, Arena of Valor, Valorant, PUBG Mobile ve Honor of Kings takımları bulunmaktadır."
 },
  
  {
-    "Takim": "BBL E Spor",
+ "TakimAdi": "BBL E Spor",
  "ResimURL": "https://raw.githubusercontent.com/halitiskit/com.HR210024_halit_eren_iskit.final/main/BBL.png",
  "TakimHakkinda":"BigBossLayf Esports veya bilinen adı ile BBL Esports, Ferit 'wtcN' Karakaya,Kemal Can 'Kendine Müzisyen' Parlak, Şükrü 'Uthenera' Şentürk ve Okan 'oid' İlker Demirel, tarafından Temmuz 2020'de kurulmuş bir Türk elektronik spor kulübüdür. Valorant First Strike Türkiye Büyük Finali'nde rakibi Fut Esports 3-0 yenerek ilk Valorant First Strike Türkiye Şampiyonu olmuştur."
  },
  
  {
-    "Takim": "FUT E Spor",
+ "TakimAdi": "FUT E Spor",
  "ResimURL": "https://raw.githubusercontent.com/halitiskit/com.HR210024_halit_eren_iskit.final/main/FUT.png",
  "TakimHakkinda":"FUT Esports veya eski adı ile Futbolist, 2014 yılında spor haber uygulaması olarak ortaya çıkan Futbolist şirketinin e spor arenasına giriş yapması ile birlikte Aralık 2016 tarihinde kuruldu.Organizasyon ilk takımını FIFA oyununda İsmail Can 'Isopowerr' Yerinde'yi kadrosuna katarak duyurdu. League of Legends, PUBG, PUBG Mobile, Valorant, FIFA ve Hearthstone oyunlarında da çeşitli takımları bulunmaktadır."
  },
  
  {
-    "Takim": "SUP E Spor",
+ "TakimAdi": "SUP E Spor",
  "ResimURL": "https://raw.githubusercontent.com/halitiskit/com.HR210024_halit_eren_iskit.final/main/SUP.png",
  "TakimHakkinda":"SuperMassive (kısaca SUP ya da sponsorluk anlaşması gereğince Papara SuperMassive), Hakan Baş ve Kaan Karamancı tarafından 6 Ocak 2016 tarihinde kurulan[1] Türk espor kulübü."
  }
